@@ -41,8 +41,6 @@ export function TaskList() {
     }: task);
 
     setTasks(task);
-    
-
 
   }
 
